@@ -11,3 +11,4 @@ with example json data as body
 },
 "targetCurrency":"PLN"
 }
+![image](https://user-images.githubusercontent.com/52966846/221332394-ef704086-0a05-4a4c-9078-2c92f0540849.png)

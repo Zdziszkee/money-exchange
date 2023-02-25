@@ -11,4 +11,3 @@ with example json data as body
 },
 "targetCurrency":"PLN"
 }
-
